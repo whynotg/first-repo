@@ -1,2 +1,3 @@
-for _ in range(10):
+for i in range,(1, 10+1):
+    if i%2==0:
     print('hello')
